@@ -1,0 +1,29 @@
+Lista Completa de Prompts:
+
+
+
+1-Olá, tudo bem? Queria te pedir um favor:
+Faça um texto para ebook, com foco em Inteligência Artificial, listando as principais características de cada uma. Seguindo {Script} e {Regras} abaixo:
+
+{Script}
+>Explique o que é Inteligência Artificial de maneira simples.
+>Explique a diferença entre IA generativa e IA preditiva
+>Explique e exemplifique a IA preditiva
+>explique e categorize a IA generativa em quatro tópicos: Imagem, vídeo, áudio e texto
+>Explique  e exemplifique cada um dos tópicos acima
+
+{Regras}
+>Deixe o texto enxuto
+>Sempre traga exemplos em contextos reais
+
+2-Reescreva de forma detalhada cada tópico acima
+
+3-Explique detalhadamente o que é a IA generativa
+
+4-Explique o que é, de forma geral, a Inteligência artificial
+
+5-O que é IA preditiva?
+
+6-Faça uma lista com todos os prompts que eu pedi aqui nessa conversa
+
+

@@ -1,0 +1,39 @@
+Lista Completa de Prompts:
+
+1. 13/05/2024 - 01:00 - 
+Resumo sobre Autoencoders em IA:
+O que são Autoencoders?
+Como funcionam os Autoencoders?
+Quais são os benefícios dos Autoencoders?
+Quais são as aplicações dos Autoencoders?
+
+
+2. 13/05/2024 - 01:00 -
+Introdução para o texto sobre IA Generativa e Preditiva:
+Introdução à IA Generativa e Preditiva.
+Diferenças entre IA Generativa e Preditiva.
+Aplicações da IA Generativa e Preditiva.
+Desafios e Considerações Éticas da IA Generativa e Preditiva.
+
+
+3. 13/05/2024 - 01:00 -
+Resumo sobre IA Generativa na criação de textos:
+Como a IA Generativa é utilizada na criação de textos?
+Quais são as aplicações da IA Generativa na criação de textos?
+Quais são os benefícios da IA Generativa na criação de textos?
+Quais são os desafios da IA Generativa na criação de textos?
+
+
+4. 13/05/2024 - 01:00 -
+Reescrever o texto sobre IA Generativa na criação de textos:
+Resumo do texto original.
+Desafios éticos da IA Generativa na criação de textos.
+Caminho para a responsabilidade e a transparência na IA Generativa.
+Considerações adicionais sobre a IA Generativa.
+
+
+5. 13/05/2024 - 01:00 -
+Reescrever o texto sobre Desafios Éticos da IA Generativa:
+Resumo dos desafios éticos da IA Generativa.
+Caminho para a responsabilidade e a transparência na IA Generativa.
+Considerações adicionais sobre a IA Generativa.
